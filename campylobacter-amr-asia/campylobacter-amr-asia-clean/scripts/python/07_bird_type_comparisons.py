@@ -3,7 +3,7 @@ Bird Type Statistical Comparisons
 =================================
 Statistical tests comparing resistance between bird types
 
-Author: [Your Name]
+Author: [Burhan Lehri]
 Date: December 2024
 """
 
