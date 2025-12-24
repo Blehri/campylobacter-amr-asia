@@ -3,7 +3,7 @@ Site Type Statistical Comparisons
 =================================
 Statistical tests comparing resistance between site types (Table S7)
 
-Author: [Your Name]
+Author: [Burhan Lehri]
 Date: December 2024
 """
 
