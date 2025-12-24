@@ -1,0 +1,5 @@
+# Configuration Template
+# Copy to paths.yaml and update paths
+
+data_file: "data/My_merged_output_V5.csv"
+output_dir: "outputs"
