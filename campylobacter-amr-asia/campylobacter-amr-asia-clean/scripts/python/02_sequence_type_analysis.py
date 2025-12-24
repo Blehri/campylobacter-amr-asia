@@ -3,7 +3,7 @@ Sequence Type Analysis
 ======================
 ST-specific resistance distributions and statistical comparisons (Figure 5)
 
-Author: [Your Name]
+Author: [Burhan  Lehri]
 Date: December 2024
 """
 
