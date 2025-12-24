@@ -3,7 +3,7 @@ MDR Prevalence Analysis
 =======================
 Multi-drug resistance patterns across countries and species (Figure 7)
 
-Author: [Your Name]
+Author: [Burhan Lehri]
 Date: December 2024
 """
 
