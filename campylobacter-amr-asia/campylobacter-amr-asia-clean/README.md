@@ -13,7 +13,7 @@ Analysis scripts for: **"Geographic, species and lineage driven antimicrobial re
 
 ```bash
 # Clone repository
-git clone https://github.com/[YOUR_USERNAME]/campylobacter-amr-asia.git
+git clone https://github.com/Blehri/campylobacter-amr-asia.git
 cd campylobacter-amr-asia
 
 # Install dependencies
@@ -69,4 +69,4 @@ MIT License - See LICENSE file
 
 ## Contact
 
-**Burhan Lehri** | [your.email@institution.ac.uk]
+**Burhan Lehri** | b.lehri@hotmail.co.uk
