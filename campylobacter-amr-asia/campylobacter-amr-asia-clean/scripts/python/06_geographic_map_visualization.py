@@ -3,7 +3,7 @@ Geographic Map Visualization
 ============================
 Study site map with sample points and regional coloring (Figure 1)
 
-Author: [Your Name]
+Author: [Burhan Lehri]
 Date: December 2024
 """
 
