@@ -5,7 +5,7 @@
 
 Analysis scripts for: **"Geographic, species and lineage driven antimicrobial resistance patterns in poultry associated *Campylobacter* across South and Southeast Asia"**
 
-*Microbial Genomics* (2025) | Burhan Lehri, et al.
+*NA* (NA) | Burhan Lehri, et al.
 
 ---
 
