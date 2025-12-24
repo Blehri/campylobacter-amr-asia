@@ -3,7 +3,7 @@ ARG Resistance Visualizations
 =============================
 Stacked bar charts showing ARG prevalence by country and species (Figures 3-4)
 
-Author: [Your Name]
+Author: [Burhan Lehri]
 Date: December 2024
 """
 
