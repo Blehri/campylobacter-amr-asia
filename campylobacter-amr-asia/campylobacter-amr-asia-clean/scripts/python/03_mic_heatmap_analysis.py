@@ -3,7 +3,7 @@ MIC Heatmap Analysis
 ====================
 Interactive heatmaps of phenotypic resistance with ECOFF comparisons (Figure 6)
 
-Author: [Your Name]
+Author: [Burhan Lehri]
 Date: December 2024
 """
 
