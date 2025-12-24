@@ -58,8 +58,8 @@ See detailed instructions in README.md after cloning.
 @article{lehri2025campylobacter,
   title={Geographic, species and lineage driven antimicrobial resistance patterns},
   author={Lehri, Burhan and et al.},
-  journal={Microbial Genomics},
-  year={2025}
+  journal={NA},
+  year={NA}
 }
 ```
 
