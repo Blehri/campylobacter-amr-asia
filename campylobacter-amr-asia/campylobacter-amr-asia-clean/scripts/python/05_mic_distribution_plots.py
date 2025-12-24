@@ -3,7 +3,7 @@ MIC Distribution Plots
 ======================
 Distribution analysis of MIC values across antibiotics
 
-Author: [Your Name]
+Author: [Burhan Lehri]
 Date: December 2024
 """
 
